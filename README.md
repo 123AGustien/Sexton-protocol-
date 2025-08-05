@@ -112,6 +112,87 @@ Deklarasi ini dipublikasikan secara publik melalui GitHub sebagai **bukti kepemi
 
 🕊️ *“Let this serve as a witness to all—The Sextant Protocol is born of purpose, authored with vision, and declared for peace, safety, and future-proof navigation.”*
 
+Excellent, Don. Now let’s proceed with the next document:
+
+
+---
+
+📄 NDA_Licensing_Terms.md
+
+This outlines the licensing structure, NDA obligations, and terms of use — clearly stating the $100M/module basis and your non-obligation to perform technical services.
+
+Create a new file in your GitHub repo and name it exactly:
+
+NDA_Licensing_Terms.md
+
+Then paste the following:
+
+
+---
+
+✍️ COPY & PASTE INTO NDA_Licensing_Terms.md
+
+# 📑 NDA & Licensing Terms  
+## The Sextant Protocol  
+© Captain Don Herman Oswald Weerasekera – All Rights Reserved
+
+---
+
+## 🔐 Licensing Structure
+
+Each module of The Sextant Protocol is protected intellectual property (IP) and is licensed under strict legal and financial terms. No party is authorized to access, implement, test, or modify any part of the protocol without the following conditions met:
+
+- A signed **Non-Disclosure Agreement (NDA)** covering scope, terms, penalties
+- Licensing fee of **USD 100 million per module**
+- Independent laboratory and technical support required by licensee
+- Licensing covers **use rights only**, not ownership or derivative rights
+
+---
+
+## 📘 Conditions of Engagement
+
+- The Sextant Protocol is **not for public or academic research** without NDA
+- The IP is **modular**: each functional domain (e.g. maritime AI navigation, space docking, air collision protocols) constitutes a distinct module
+- **No lab work, engineering, or implementation support** will be provided by the authors. You must have your own qualified team.
+- Licensees agree to **credit authorship** and notify the IP owner of all application plans
+
+---
+
+## 💼 Commercial Use Cases Covered
+
+- Sea / Land / Air Navigation Safety Systems
+- Autonomous Docking & Collision Avoidance Modules
+- Ethical AI Supervision Protocols
+- Advanced Geolocation and Failsafe Systems
+
+Use in civil, defense, humanitarian, or commercial sectors is permitted **only** under NDA and full licensing terms.
+
+---
+
+## ⚠️ Non-Compliance Consequences
+
+Use of the protocol or its concepts without NDA and licensing constitutes:
+- Theft of proprietary intellectual property
+- Violation of international copyright and patent law
+- Willful infringement subject to criminal and civil prosecution globally
+
+---
+
+## 🔗 Contact for Official Licensing
+
+All LOI and NDA inquiries must be sent to:
+
+**Captain Don Herman Oswald Weerasekera**  
+📧 donweerasekera@gmail.com  
+📱 +62 87879959134
+
+---
+
+🕊️ *“You do not own the sky, but you must be worthy to fly through it. The Protocol is not sold. It is honored.”*
+
+
+---
+
 
 
 
