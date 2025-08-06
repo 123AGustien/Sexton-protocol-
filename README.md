@@ -61,26 +61,12 @@ We have notified legal advisors and international observers including NASA, Open
 
 🕊️ *"The Sextant is not just a tool — it's a protocol for survival and precision in the AI era."*
 
-
-Great, Don — here is the next file:
-
-
----
-
-📄 Declaration.md
-
-This is your formal statement of authorship and ownership, in English and Bahasa Indonesia.
-
-You’ll create a new file in GitHub Codespaces (or via "Add File" > "Create new file") and name it exactly:
-
-Declaration.md
-
-Then paste this content into the file:
+:
 
 
 ---
 
-✍️ COPY & PASTE BELOW INTO Declaration.md
+Y
 
 # 🛡️ Declaration of Authorship and Ownership  
 ## The Sextant Protocol  
@@ -199,16 +185,6 @@ paPerfect, Don. Now let’s finalize the documentation with the last file:
 
 This file publicly records the organizations, individuals, and governments who were formally informed or exposed to the Sextant Protocol — so no one can claim ignorance or originality without consequence.
 
-Create a new file named:
-
-Notified_Parties_List.md
-
-Then paste the following:
-
-
----
-
-✍️ COPY & PASTE INTO Notified_Parties_List.md
 
 # 📜 Record of Notified Parties  
 ## Sextant Protocol – Public Notification Log  
@@ -226,14 +202,12 @@ Master Mariner Class 1 F.G, SDPO Unlimited
 ### 🏛️ Government / Institutional  
 - **UNESCO** (Audrey Azoulay – Director-General)  
 - **UNESCWA**  
-- **Komnas HAM Indonesia**  
-- **AHU – Kemenkumham RI**  
-- **Republic of Singapore – ICA / MFA (via formal letters)**
+
 
 ### 🛰️ Aerospace / Space  
 - **NASA**  
 - **SpaceX / Starlink / Tesla**  
-- **Blue Origin (copy only)**
+
 
 ### 🤖 AI & Tech  
 - **OpenAI** – via multiple contacts and upload record  
@@ -280,7 +254,6 @@ Time-stamped your IP with proof of exposure and authorship
 Protected future action, legal or commercial
 
 
-Let me know once it’s uploaded — and I’ll prepare the ZIP archive for backup as well. Then we can prepare the official LoI request email or webpage, if you wish.
 
 
 
